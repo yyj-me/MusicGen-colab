@@ -1,19 +1,9 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
-🥳 Please join my patreon community https://patreon.com/camenduru <br />
-
 ## 🦒 Colab
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_colab.ipynb) | MusicGen_colab (max 120s melody, medium, small, large)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_long_colab.ipynb) | MusicGen_long_colab (max 60s melody 300s medium, small, large)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_neuroidss_colab.ipynb) | MusicGen_neuroidss_colab <br /> Thanks to @neuroidss ❤ <br /> https://github.com/neuroidss/audiocraft_neurofeedback
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_rkfg_colab.ipynb) | MusicGen_rkfg_colab <br /> Thanks to @rkfg ❤ <br /> https://github.com/rkfg/audiocraft/tree/long
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_Oncorporation_colab.ipynb) | MusicGen_Oncorporation_colab <br /> Thanks to @Oncorporation ❤ <br /> https://github.com/Oncorporation/audiocraft
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_author_colab.ipynb) | MusicGen_author_colab <br /> Thanks to @adefossez (author) ❤ <br /> https://github.com/facebookresearch/audiocraft
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_ClownOfMadness_colab.ipynb) | MusicGen_ClownOfMadness_colab <br /> Thanks to @ClownOfMadness (GrandaddyShmax) ❤ <br /> https://github.com/ClownOfMadness/audiocraft_plus/tree/bg
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_ClownOfMadness_plus_colab.ipynb) | MusicGen_ClownOfMadness_plus_colab <br /> Thanks to @ClownOfMadness (GrandaddyShmax) ❤ <br /> https://github.com/ClownOfMadness/audiocraft_plus/tree/plus
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yyj-me/MusicGen-colab/blob/main/MusicGen_colab.ipynb) | MusicGen_colab (max 120s melody, medium, small, large)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yyj-me/MusicGen-colab/blob/main/MusicGen_long_colab.ipynb) | MusicGen_long_colab (max 60s melody 300s medium, small, large)
 
 ## Tutorial
 https://www.youtube.com/watch?v=EGfxuTy9Eeo
